@@ -4,15 +4,7 @@
     <display-name>SkyShowtime 1</display-name>
   </channel><channel id="a0h6">
     <display-name>SkyShowtime 2</display-name>
-  </channel><programme channel="a0h6" start="20250319180000 +0200" stop="20250319190000 +0200">
-    <title lang="bg">Д-р Хаус</title>
-    <sub-title lang="bg">Медицинска мелодрама, САЩ, 2005</sub-title>
-    <desc lang="bg">Хаус нарушава заръката "не реанимирай" на легендарен музикант и спасява живота му.</desc>
-  </programme><programme channel="a0h6" start="20250319190000 +0200" stop="20250319200000 +0200">
-    <title lang="bg">Д-р Хаус</title>
-    <sub-title lang="bg">Медицинска мелодрама, САЩ, 2005</sub-title>
-    <desc lang="bg">Д-р Форман мисли, че бездомна жена с влошаващи се симптоми инсценира припадъци.</desc>
-  </programme><programme channel="a0h6" start="20250319200000 +0200" stop="20250319220000 +0200">
+  </channel><programme channel="a0h6" start="20250319200000 +0200" stop="20250319220000 +0200">
     <title lang="bg">Боб Марли: One Love</title>
     <sub-title lang="bg">Биографичен, САЩ, 2024</sub-title>
     <desc lang="bg">Историята за това как реге иконата се бори с трудностите и прави революция в музиката.</desc>
@@ -208,18 +200,6 @@
     <title lang="bg">Анна Каренина</title>
     <sub-title lang="bg">Романтичен, Великобритания, 2012</sub-title>
     <desc lang="bg">Анна Каренина, аристократка от Санкт Петербург, започва извънбрачна връзка с граф Вронски.</desc>
-  </programme><programme channel="a0h5" start="20250319170000 +0200" stop="20250319190000 +0200">
-    <title lang="bg">Ингрид отива на Запад</title>
-    <sub-title lang="bg">Комедия, САЩ, 2017</sub-title>
-    <desc lang="bg">Вманиачена жена се мести в Лос Анджелис, за да се сприятели със знаменитост от социалните медии.</desc>
-  </programme><programme channel="a0h5" start="20250319190000 +0200" stop="20250319193000 +0200">
-    <title lang="bg">Рокфелер плаза 30</title>
-    <sub-title lang="bg">Ситком, САЩ, 2010</sub-title>
-    <desc lang="bg">Джак моли Лиз за романтичен съвет; Лиз се опитва да се свърже отново със старо гадже.</desc>
-  </programme><programme channel="a0h5" start="20250319193000 +0200" stop="20250319200000 +0200">
-    <title lang="bg">Рокфелер плаза 30</title>
-    <sub-title lang="bg">Ситком, САЩ, 2010</sub-title>
-    <desc lang="bg">Лиз среща мъжа на мечтите си; романтичните несгоди на Джак достигат кулминация; Кенет избягва повишение.</desc>
   </programme><programme channel="a0h5" start="20250319200000 +0200" stop="20250319210000 +0200">
     <title lang="bg">Дъглас е отхвърлен</title>
     <sub-title lang="bg">Драма, Великобритания, 2024</sub-title>
@@ -516,5 +496,9 @@
     <title lang="bg">Последният тъмнокож в Сан Франциско</title>
     <sub-title lang="bg">Драма, САЩ, 2019</sub-title>
     <desc lang="bg">Млад мъж се опитва да си върне къщата, която дядо му е построил в самия център на Сан Франциско.</desc>
+  </programme><programme channel="a0h5" start="20250322153000 +0200" stop="20250322183000 +0200">
+    <title lang="bg">Смешни хора</title>
+    <sub-title lang="bg">Комедия, САЩ, 2009</sub-title>
+    <desc lang="bg">Нелечимо болен комик, който търси истински приятел, става ментор на комик в затруднено положение.</desc>
   </programme>
 </tv>
