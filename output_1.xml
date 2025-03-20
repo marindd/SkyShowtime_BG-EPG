@@ -4,27 +4,7 @@
     <display-name>SkyShowtime 1</display-name>
   </channel><channel id="a0h6">
     <display-name>SkyShowtime 2</display-name>
-  </channel><programme channel="a0h6" start="20250319200000 +0200" stop="20250319220000 +0200">
-    <title lang="bg">Боб Марли: One Love</title>
-    <sub-title lang="bg">Биографичен, САЩ, 2024</sub-title>
-    <desc lang="bg">Историята за това как реге иконата се бори с трудностите и прави революция в музиката.</desc>
-  </programme><programme channel="a0h6" start="20250319220000 +0200" stop="20250320000000 +0200">
-    <title lang="bg">Анна Каренина</title>
-    <sub-title lang="bg">Романтичен, Великобритания, 2012</sub-title>
-    <desc lang="bg">Анна Каренина, аристократка от Санкт Петербург, започва извънбрачна връзка с граф Вронски.</desc>
-  </programme><programme channel="a0h6" start="20250320000000 +0200" stop="20250320010000 +0200">
-    <title lang="bg">Времевите имигранти</title>
-    <sub-title lang="bg">Драма, Норвегия, 2021</sub-title>
-    <desc lang="bg">След предателство Алфхилдр и Ларс използват нетрадиционни методи, за да разкрият истината.</desc>
-  </programme><programme channel="a0h6" start="20250320010000 +0200" stop="20250320020000 +0200">
-    <title lang="bg">Рей Донован</title>
-    <sub-title lang="bg">Криминален, САЩ, 2017</sub-title>
-    <desc lang="bg">Съдът разпорежда управление на гнева за Рей след сбиване; Конър се адаптира към военното училище.</desc>
-  </programme><programme channel="a0h6" start="20250320020000 +0200" stop="20250320030000 +0200">
-    <title lang="bg">Рей Донован</title>
-    <sub-title lang="bg">Криминален, САЩ, 2017</sub-title>
-    <desc lang="bg">Напрежение избухва между двете семейства на сватбата на Тери и Морийн.</desc>
-  </programme><programme channel="a0h6" start="20250320030000 +0200" stop="20250320060000 +0200">
+  </channel><programme channel="a0h6" start="20250320030000 +0200" stop="20250320060000 +0200">
     <title lang="bg">Опенхаймер</title>
     <sub-title lang="bg">Биографичен, САЩ, 2023</sub-title>
     <desc lang="bg">Физикът Дж. Робърт Опенхаймер и екип от учени работят върху създаването на атомната бомба.</desc>
@@ -200,34 +180,10 @@
     <title lang="bg">Анна Каренина</title>
     <sub-title lang="bg">Романтичен, Великобритания, 2012</sub-title>
     <desc lang="bg">Анна Каренина, аристократка от Санкт Петербург, започва извънбрачна връзка с граф Вронски.</desc>
-  </programme><programme channel="a0h5" start="20250319200000 +0200" stop="20250319210000 +0200">
-    <title lang="bg">Дъглас е отхвърлен</title>
-    <sub-title lang="bg">Драма, Великобритания, 2024</sub-title>
-    <desc lang="bg">Общественият фурор продължава и Дъглас търси съвет как да се справи с нарастващите въпроси.</desc>
-  </programme><programme channel="a0h5" start="20250319210000 +0200" stop="20250319213000 +0200">
-    <title lang="bg">Хитринки</title>
-    <sub-title lang="bg">Комедия, САЩ, 2021</sub-title>
-    <desc lang="bg">Ава получава прозрение, докато архивира кариерата на Дебора; Неочакван пакет разпалва конфликт.</desc>
-  </programme><programme channel="a0h5" start="20250319213000 +0200" stop="20250319220000 +0200">
-    <title lang="bg">Хитринки</title>
-    <sub-title lang="bg">Комедия, САЩ, 2021</sub-title>
-    <desc lang="bg">Ава научава за връзката на Дебора и Диджей; Дебора намира аргумент срещу Марти.</desc>
-  </programme><programme channel="a0h5" start="20250319220000 +0200" stop="20250319230000 +0200">
-    <title lang="bg">Dexter: Original Sin</title>
-    <sub-title lang="bg">Криминален, САЩ, 2024</sub-title>
-    <desc lang="bg">Декстър е наказан от Хари. Деб задълбочава връзката си с Джио.</desc>
-  </programme><programme channel="a0h5" start="20250319230000 +0200" stop="20250320000000 +0200">
-    <title lang="bg">Dexter: Original Sin</title>
-    <sub-title lang="bg">Криминален, САЩ, 2024</sub-title>
-    <desc lang="bg">В полезрението на Декстър попада убиец, който се е измъкнал безнаказано от съдебната система.</desc>
-  </programme><programme channel="a0h5" start="20250320000000 +0200" stop="20250320020000 +0200">
-    <title lang="bg">Бари Сийл: Наркотрафикантът</title>
-    <sub-title lang="bg">Биографичен, Колумбия, 2017</sub-title>
-    <desc lang="bg">Пилот е вербуван от ЦРУ за една от най-големите тайни операции в историята на САЩ.</desc>
-  </programme><programme channel="a0h5" start="20250320020000 +0200" stop="20250320030000 +0200">
-    <title lang="bg">Rabbit Hole</title>
-    <sub-title lang="bg">Екшън, САЩ, 2023</sub-title>
-    <desc lang="bg">С приближаването на силите, Хом разплита взаимосвързаностите на Интавселената с пъкления план на Кроули.</desc>
+  </programme><programme channel="a0h6" start="20250322180000 +0200" stop="20250322200000 +0200">
+    <title lang="bg">Котките</title>
+    <sub-title lang="bg">Комедия, Канада, 2019</sub-title>
+    <desc lang="bg">Племето на котките Желик трябва да реши коя от тях ще се изкачи до Слоя Хевисайд.</desc>
   </programme><programme channel="a0h5" start="20250320030000 +0200" stop="20250320040000 +0200">
     <title lang="bg">Rabbit Hole</title>
     <sub-title lang="bg">Екшън, САЩ, 2023</sub-title>
@@ -500,5 +456,13 @@
     <title lang="bg">Смешни хора</title>
     <sub-title lang="bg">Комедия, САЩ, 2009</sub-title>
     <desc lang="bg">Нелечимо болен комик, който търси истински приятел, става ментор на комик в затруднено положение.</desc>
+  </programme><programme channel="a0h5" start="20250322183000 +0200" stop="20250322200000 +0200">
+    <title lang="bg">Смешни хора</title>
+    <sub-title lang="bg">Комедия, САЩ, 2009</sub-title>
+    <desc lang="bg">Нелечимо болен комик, който търси истински приятел, става ментор на комик в затруднено положение.</desc>
+  </programme><programme channel="a0h5" start="20250322200000 +0200" stop="20250322210000 +0200">
+    <title lang="bg">Стар Трек: Странни нови светове</title>
+    <sub-title lang="bg">Научна фантастика, САЩ, 2023</sub-title>
+    <desc lang="bg">Докато разследва портал на времето, един инцидент праща мичман Брад Боймлър във времето.</desc>
   </programme>
 </tv>
