@@ -4,5 +4,17 @@
     <display-name>SkyShowtime 1</display-name>
   </channel><channel id="a0h6">
     <display-name>SkyShowtime 2</display-name>
-  </channel>
+  </channel><programme channel="a0h6" start="20250331010000 +0200" stop="20250331030000 +0200">
+    <title lang="bg">Бързи и яростни 8</title>
+    <sub-title lang="bg">Трилър, Китай, 2017</sub-title>
+    <desc lang="bg">Членовете на екипа се впускат в действие, когато мистериозна жена принуждава Дом да ги предаде.</desc>
+  </programme><programme channel="a0h6" start="20250331030000 +0200" stop="20250331050000 +0200">
+    <title lang="bg">Американски пай 3: Сватбата</title>
+    <sub-title lang="bg">Комедия, Германия, 2003</sub-title>
+    <desc lang="bg">Докато двойка се готви да се ожени, техен противен приятел планира да организира ергенско парти.</desc>
+  </programme><programme channel="a0h5" start="20250331020000 +0200" stop="20250331030000 +0200">
+    <title lang="bg">Dexter: Original Sin</title>
+    <sub-title lang="bg">Криминален, САЩ, 2024</sub-title>
+    <desc lang="bg">Хари и Лагерта започват да разследват потенциален сериен убиец, който се вихри на свобода.</desc>
+  </programme>
 </tv>
