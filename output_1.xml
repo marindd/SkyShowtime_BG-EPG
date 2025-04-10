@@ -4,5 +4,21 @@
     <display-name>SkyShowtime 1</display-name>
   </channel><channel id="a0h6">
     <display-name>SkyShowtime 2</display-name>
-  </channel>
+  </channel><programme channel="a0h6" start="20250410012000 +0200" stop="20250410032000 +0200">
+    <title lang="bg">Момичето от Дания</title>
+    <sub-title lang="bg">Биографичен, САЩ, 2015</sub-title>
+    <desc lang="bg">Артистът Ейнар Вегенер се превръща в Лили Елбе, след като се подготвя за операция за смяна на пола.</desc>
+  </programme><programme channel="a0h6" start="20250410032000 +0200" stop="20250410052000 +0200">
+    <title lang="bg">Не е лесно</title>
+    <sub-title lang="bg">Романтична комедия, САЩ, 2009</sub-title>
+    <desc lang="bg">Собственичка на ресторант се разкъсва между чувствата си към бившия си съпруг и чаровен архитект.</desc>
+  </programme><programme channel="a0h5" start="20250410012500 +0200" stop="20250410022500 +0200">
+    <title lang="bg">Предложението</title>
+    <sub-title lang="bg">Драма, САЩ, 2022</sub-title>
+    <desc lang="bg">Марлон Брандо и Ал Пачино водят преговори за главни роли. Руди печели подкрепата на Коломбо.</desc>
+  </programme><programme channel="a0h5" start="20250410022500 +0200" stop="20250410024500 +0200">
+    <title lang="bg">Рокфелер плаза 30</title>
+    <sub-title lang="bg">Ситком, САЩ, 2012</sub-title>
+    <desc lang="bg">Джак търси революционна идея за "Кейбълтаун"; Лиз се опитва да се посвети на новото си хоби.</desc>
+  </programme>
 </tv>
