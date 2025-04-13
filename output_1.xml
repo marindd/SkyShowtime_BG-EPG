@@ -4,381 +4,177 @@
     <display-name>SkyShowtime 1</display-name>
   </channel><channel id="a0h6">
     <display-name>SkyShowtime 2</display-name>
-  </channel><programme channel="a0h6" start="20250411012500 +0200" stop="20250411033500 +0200">
-    <title lang="bg">Невидима нишка</title>
-    <sub-title lang="bg">Романтичен, САЩ, 2017</sub-title>
-    <desc lang="bg" />
-  </programme><programme channel="a0h6" start="20250411033500 +0200" stop="20250411051000 +0200">
-    <title lang="bg">Убежище</title>
-    <sub-title lang="bg">Трилър, САЩ, 2022</sub-title>
-    <desc lang="bg">Когато богат наследник се опитва да прекрати тайната си връзка с доминантка, настъпва катастрофа.</desc>
-  </programme><programme channel="a0h6" start="20250411051000 +0200" stop="20250411060000 +0200">
-    <title lang="bg">Майка Тереза -_ От любов към Бога?</title>
-    <sub-title lang="bg">Документален, Великобритания, 2022</sub-title>
-    <desc lang="bg">Откровен разказ за сложния и невероятен живот на съвременен светец; част едно.</desc>
-  </programme><programme channel="a0h6" start="20250411060000 +0200" stop="20250411070000 +0200">
-    <title lang="bg">Предизвикателството: Битката на епохите</title>
-    <sub-title lang="bg">Реалити, САЩ, 2024</sub-title>
-    <desc lang="bg">Финалът е все по-близо, но грандиозен обрат може да разруши нечии мечти.</desc>
-  </programme><programme channel="a0h6" start="20250411070000 +0200" stop="20250411074500 +0200">
-    <title lang="bg">Господар на мастилото</title>
-    <sub-title lang="bg">Реалити, САЩ, 2019</sub-title>
-    <desc lang="bg">Отбори от четирите региона на страната се състезават за награда от сто хиляди долара.</desc>
-  </programme><programme channel="a0h6" start="20250411074500 +0200" stop="20250411081000 +0200">
+  </channel><programme channel="a0h6" start="20250413010100 +0200" stop="20250413030000 +0200">
+    <title lang="bg">Пътуване по женски</title>
+    <sub-title lang="bg">Комедия, САЩ, 2017</sub-title>
+    <desc lang="bg">Четири приятелки отиват на почивка в Ню Орлиънс, където се радват на възможността да полудуват.</desc>
+  </programme><programme channel="a0h6" start="20250414082000 +0200" stop="20250414084500 +0200">
     <title lang="bg">Тандърмен срещу Тандърмен</title>
     <sub-title lang="bg">Филм, САЩ, 2015</sub-title>
-    <desc lang="bg">Макс трябва да избере дали да даде приоритет на приятелите си или на репутацията си на зъл злодей.</desc>
-  </programme><programme channel="a0h6" start="20250411081000 +0200" stop="20250411083500 +0200">
-    <title lang="bg">Тандърмен срещу Тандърмен</title>
-    <sub-title lang="bg">Филм, САЩ, 2015</sub-title>
-    <desc lang="bg">Макс и Фийби започват караница, за да избегнат влакчето на ужасите, но нещата излизат извън контрол.</desc>
-  </programme><programme channel="a0h6" start="20250411083500 +0200" stop="20250411090000 +0200">
-    <title lang="bg">Тандърмен срещу Тандърмен</title>
-    <sub-title lang="bg">Филм, САЩ, 2015</sub-title>
-    <desc lang="bg">Фийби се колебае дали да разкрие истината за бащата на приятеля си.</desc>
-  </programme><programme channel="a0h6" start="20250411090000 +0200" stop="20250411092500 +0200">
-    <title lang="bg">Тандърмен срещу Тандърмен</title>
-    <sub-title lang="bg">Филм, САЩ, 2015</sub-title>
-    <desc lang="bg">Връзката на Фийби с приятеля ?, който е супергерой, е подложена на изпитание заради предложение за работа в чужбина.</desc>
-  </programme><programme channel="a0h6" start="20250411092500 +0200" stop="20250411105500 +0200">
-    <title lang="bg">Шрек</title>
-    <sub-title lang="bg">Забавление, САЩ, 2001</sub-title>
-    <desc lang="bg">Огър и магаре сключват сделка с подъл лорд, за да спасят принцеса.</desc>
-  </programme><programme channel="a0h6" start="20250411105500 +0200" stop="20250411114000 +0200">
-    <title lang="bg">Д-р Хаус</title>
-    <sub-title lang="bg">Медицинска мелодрама, САЩ, 2006</sub-title>
-    <desc lang="bg">Хаус поема случая на лечител-тийнейджър; напрежението между Камерън и Форман нараства.</desc>
-  </programme><programme channel="a0h6" start="20250411114000 +0200" stop="20250411122500 +0200">
-    <title lang="bg">Д-р Хаус</title>
-    <sub-title lang="bg">Медицинска мелодрама, САЩ, 2006</sub-title>
-    <desc lang="bg">Ченге в критично състояние има странни симптоми; Д-р Форман се сблъсква с неприятна ситуация.</desc>
-  </programme><programme channel="a0h6" start="20250411122500 +0200" stop="20250411141000 +0200">
-    <title lang="bg">Какво става после</title>
-    <sub-title lang="bg">Романтична комедия, САЩ, 2023</sub-title>
-    <desc lang="bg">Двама бивши любовници се срещат случайно, оставайки затрупани от сняг на летището за една нощ.</desc>
-  </programme><programme channel="a0h6" start="20250411141000 +0200" stop="20250411155500 +0200">
-    <title lang="bg">Агенти на съдбата</title>
-    <sub-title lang="bg">Трилър, САЩ, 2011</sub-title>
-    <desc lang="bg">Политик се влюбва в балерина, но мистериозни сили ги държат разделени.</desc>
-  </programme><programme channel="a0h6" start="20250411155500 +0200" stop="20250411163000 +0200">
-    <title lang="bg">Храна за любовта</title>
-    <sub-title lang="bg">Драма, Испания, 2019</sub-title>
-    <desc lang="bg">Обикновена среща на кафе успява да сближи двама непознати, които са големи почитатели на храната.</desc>
-  </programme><programme channel="a0h6" start="20250411163000 +0200" stop="20250411171500 +0200">
+    <desc lang="bg">Докато Фийби се грижи за срамежливия брат на Линк - Харис, той открива дяволската си страна.</desc>
+  </programme><programme channel="a0h6" start="20250414084500 +0200" stop="20250414102500 +0200">
+    <title lang="bg">Круд</title>
+    <sub-title lang="bg">Забавление, САЩ, 2013</sub-title>
+    <desc lang="bg">Праисторическо семейство тръгва към непознат свят, за да търси нов дом.</desc>
+  </programme><programme channel="a0h6" start="20250414102500 +0200" stop="20250414111000 +0200">
     <title lang="bg">Д-р Хаус</title>
     <sub-title lang="bg">Медицинска мелодрама, САЩ, 2006</sub-title>
     <desc lang="bg">Изправен пред смъртта, д-р Форман разговаря с баща си и се опитва да се поправи.</desc>
-  </programme><programme channel="a0h6" start="20250411171500 +0200" stop="20250411180000 +0200">
+  </programme><programme channel="a0h6" start="20250414111000 +0200" stop="20250414115500 +0200">
     <title lang="bg">Д-р Хаус</title>
     <sub-title lang="bg">Медицинска мелодрама, САЩ, 2006</sub-title>
     <desc lang="bg">Хаус и екипът се опитват да спасят живота на млада майка и нейния новороден син.</desc>
-  </programme><programme channel="a0h6" start="20250411180000 +0200" stop="20250411185000 +0200">
-    <title lang="bg">Майка Тереза -_ От любов към Бога?</title>
-    <sub-title lang="bg">Документален, Великобритания, 2022</sub-title>
-    <desc lang="bg">Откровен разказ за сложния и невероятен живот на съвременен светец; втора част.</desc>
-  </programme><programme channel="a0h6" start="20250411185000 +0200" stop="20250411210000 +0200">
-    <title lang="bg">Невидима нишка</title>
-    <sub-title lang="bg">Романтичен, САЩ, 2017</sub-title>
-    <desc lang="bg" />
-  </programme><programme channel="a0h6" start="20250411210000 +0200" stop="20250411224500 +0200">
-    <title lang="bg">Смъртоносна надпревара</title>
-    <sub-title lang="bg">Научна фантастика, САЩ, 2008</sub-title>
-    <desc lang="bg">Невинен мъж, натопен за убийство, участва в автомобилно състезание, за да спечели свободатата си.</desc>
-  </programme><programme channel="a0h6" start="20250411224500 +0200" stop="20250411233000 +0200">
-    <title lang="bg">Още съм тук</title>
-    <sub-title lang="bg">Комедия, Полша, 2023</sub-title>
-    <desc lang="bg">Лотна разкрива миналото си; Гризелда губи търпение и изхвърля Чули от апартамента си.</desc>
-  </programme><programme channel="a0h6" start="20250411233000 +0200" stop="20250412001500 +0200">
-    <title lang="bg">Още съм тук</title>
-    <sub-title lang="bg">Комедия, Полша, 2023</sub-title>
-    <desc lang="bg">Измъчваният от вина Чули се примирява с решението на Матилда да се премести в Канада.</desc>
-  </programme><programme channel="a0h6" start="20250412001500 +0200" stop="20250412010000 +0200">
-    <title lang="bg">Д-р Хаус</title>
-    <sub-title lang="bg">Медицинска мелодрама, САЩ, 2006</sub-title>
-    <desc lang="bg">Докато лекува супермодел от пристрастяване към хероин, д-р Хаус разкрива изумителна тайна.</desc>
-  </programme><programme channel="a0h6" start="20250412010000 +0200" stop="20250412031000 +0200">
-    <title lang="bg">Маями Вайс</title>
-    <sub-title lang="bg">Трилър, САЩ, 2006</sub-title>
-    <desc lang="bg">Детективи Крокет и Тъбс разследват трафика на наркотици в Южна Флорида.</desc>
-  </programme><programme channel="a0h5" start="20250411011300 +0200" stop="20250411020500 +0200">
-    <title lang="bg">The Agency</title>
-    <sub-title lang="bg">Драма, САЩ, 2024</sub-title>
-    <desc lang="bg">Д-р Блейк в подложен на тест; Възниква опасност подплашен източник да изложи операция на риск.</desc>
-  </programme><programme channel="a0h5" start="20250411020500 +0200" stop="20250411022700 +0200">
-    <title lang="bg">Рокфелер плаза 30</title>
-    <sub-title lang="bg">Ситком, САЩ, 2012</sub-title>
-    <desc lang="bg">Джак урежда среща на Лиз; планът на Джак за производство на дивани се изправя пред пречка.</desc>
-  </programme><programme channel="a0h5" start="20250411085500 +0200" stop="20250411095500 +0200">
-    <title lang="bg">Милиарди</title>
-    <sub-title lang="bg">Драма, САЩ, 2017</sub-title>
-    <desc lang="bg">Акс започва нова финансова игра. Чък се опитва да се спаси от потъване.</desc>
-  </programme><programme channel="a0h5" start="20250411095500 +0200" stop="20250411123000 +0200">
+  </programme><programme channel="a0h6" start="20250414115500 +0200" stop="20250414124000 +0200">
+    <title lang="bg">Господар на мастилото</title>
+    <sub-title lang="bg">Реалити, САЩ, 2019</sub-title>
+    <desc lang="bg">Съдиите подлагат татуистите на проверка и разкриват голяма промяна във "Войната за територии".</desc>
+  </programme><programme channel="a0h6" start="20250414124000 +0200" stop="20250414130500 +0200">
+    <title lang="bg">MTV Cribs</title>
+    <sub-title lang="bg">Реалити, САЩ, 2009</sub-title>
+    <desc lang="bg">Представяне на домовете на Янг Джок, Анди Хърли и Кери Роудс.</desc>
+  </programme><programme channel="a0h6" start="20250414130500 +0200" stop="20250414144500 +0200">
+    <title lang="bg">Непоносима жестокост</title>
+    <sub-title lang="bg">Романтична комедия, САЩ, 2003</sub-title>
+    <desc lang="bg">Успешен адвокат влиза в съдебна битка с умна жена, която сключва бракове с мъже заради парите им.</desc>
+  </programme><programme channel="a0h6" start="20250414144500 +0200" stop="20250414172000 +0200">
     <title lang="bg">Усещане за жена</title>
     <sub-title lang="bg">Драма, САЩ, 1992</sub-title>
     <desc lang="bg">Сляп бивш полковник води своя придружител-буржоа на пътешествие в търсене на удоволствия в Ню Йорк.</desc>
-  </programme><programme channel="a0h5" start="20250411123000 +0200" stop="20250411133000 +0200">
-    <title lang="bg">Милиарди</title>
-    <sub-title lang="bg">Драма, САЩ, 2017</sub-title>
-    <desc lang="bg">Акс обмисля да купи отбор от Националната футболна лига. Чък подготвя дребен информатор.</desc>
-  </programme><programme channel="a0h5" start="20250411133000 +0200" stop="20250411143000 +0200">
-    <title lang="bg">Милиарди</title>
-    <sub-title lang="bg">Драма, САЩ, 2016</sub-title>
-    <desc lang="bg">Чък разработва нова стратегия. Акс обмисля дарение за благотворителност.</desc>
-  </programme><programme channel="a0h5" start="20250411143000 +0200" stop="20250411152000 +0200">
-    <title lang="bg">Inside Greenpeace</title>
-    <sub-title lang="bg">Документален, Германия, 2021</sub-title>
-    <desc lang="bg">На две различни места по света двама активисти се борят за опазване на морските зони.</desc>
-  </programme><programme channel="a0h5" start="20250411152000 +0200" stop="20250411154000 +0200">
-    <title lang="bg">MTV Cribs</title>
-    <sub-title lang="bg">Реалити, САЩ, 2000</sub-title>
-    <desc lang="bg">Ексклузивен поглед към начина на живот и домовете на Ейкън, Бритни Гастино и "Лудоу".</desc>
-  </programme><programme channel="a0h5" start="20250411154000 +0200" stop="20250411160000 +0200">
-    <title lang="bg">MTV Cribs</title>
-    <sub-title lang="bg">Реалити, САЩ, 2000</sub-title>
-    <desc lang="bg">Представяне на домовете на Райън Шеклър, Джош Хъчърсън и Кики Палмър.</desc>
-  </programme><programme channel="a0h5" start="20250411160000 +0200" stop="20250411162000 +0200">
+  </programme><programme channel="a0h6" start="20250414172000 +0200" stop="20250414180500 +0200">
+    <title lang="bg">Д-р Хаус</title>
+    <sub-title lang="bg">Медицинска мелодрама, САЩ, 2006</sub-title>
+    <desc lang="bg">Хаус се връща на работа след излекуване от огнестрелни рани и се занимава с два случая на парализа.</desc>
+  </programme><programme channel="a0h6" start="20250414180500 +0200" stop="20250414185000 +0200">
+    <title lang="bg">Д-р Хаус</title>
+    <sub-title lang="bg">Медицинска мелодрама, САЩ, 2006</sub-title>
+    <desc lang="bg">Хаус отрича физическата си болка; дете твърди, че е измъчвано от извънземни.</desc>
+  </programme><programme channel="a0h6" start="20250414185000 +0200" stop="20250414191000 +0200">
     <title lang="bg">MTV Cribs</title>
     <sub-title lang="bg">Реалити, САЩ, 2009</sub-title>
-    <desc lang="bg">Поглед отвътре към домовете на Върн Тройър, Кристиян Одижие и Ал Харингтън.</desc>
-  </programme><programme channel="a0h5" start="20250411162000 +0200" stop="20250411180500 +0200">
-    <title lang="bg">Измислени приятели</title>
-    <sub-title lang="bg">Забавление, САЩ, 2024</sub-title>
-    <desc lang="bg">Едно момиче се впуска в пътешествие, за да свърже измислените си приятели с техните деца.</desc>
-  </programme><programme channel="a0h5" start="20250411180500 +0200" stop="20250411182500 +0200">
-    <title lang="bg">Рокфелер плаза 30</title>
-    <sub-title lang="bg">Ситком, САЩ, 2012</sub-title>
-    <desc lang="bg">Лиз е шокирана от ниското качество на шоуто, което Джак е планирал за есента.</desc>
-  </programme><programme channel="a0h5" start="20250411182500 +0200" stop="20250411184500 +0200">
-    <title lang="bg">Рокфелер плаза 30</title>
-    <sub-title lang="bg">Ситком, САЩ, 2012</sub-title>
-    <desc lang="bg">Джак и Лиз спорят за политическата сатира в шоуто; Лиз се опитва да подобри любовния си живот.</desc>
-  </programme><programme channel="a0h5" start="20250411184500 +0200" stop="20250411190500 +0200">
-    <title lang="bg">Рокфелер плаза 30</title>
-    <sub-title lang="bg">Ситком, САЩ, 2012</sub-title>
-    <desc lang="bg">Лиз се бори да защити Джена от лоша реклама и да докаже на Трейси, че жените са забавни.</desc>
-  </programme><programme channel="a0h5" start="20250411190500 +0200" stop="20250411192500 +0200">
-    <title lang="bg">Офисът</title>
-    <sub-title lang="bg">Комедия, САЩ, 2006</sub-title>
-    <desc lang="bg">Майкъл изисква вниманието на целия офис, след като изгаря крака си по невнимание.</desc>
-  </programme><programme channel="a0h5" start="20250411192500 +0200" stop="20250411195000 +0200">
-    <title lang="bg">Офисът</title>
-    <sub-title lang="bg">Комедия, САЩ, 2006</sub-title>
-    <desc lang="bg">В отчаяното си желание да спре Майкъл да разкрие тайната на Пам, Джим изтърпява пътуване до Хутърс.</desc>
-  </programme><programme channel="a0h5" start="20250411195000 +0200" stop="20250411210000 +0200">
-    <title lang="bg">The Curse</title>
-    <sub-title lang="bg">Комедия, САЩ, 2024</sub-title>
-    <desc lang="bg" />
-  </programme><programme channel="a0h5" start="20250411210000 +0200" stop="20250411215000 +0200">
-    <title lang="bg">Специални части: Лъвица</title>
-    <sub-title lang="bg">Екшън, САЩ, 2023</sub-title>
-    <desc lang="bg">Джо напътства Круз в неговата вътрешна борба; Аалия и Круз се сближават; Кейт се завръща у дома.</desc>
-  </programme><programme channel="a0h5" start="20250411215000 +0200" stop="20250411225000 +0200">
-    <title lang="bg">Специални части: Лъвица</title>
-    <sub-title lang="bg">Екшън, САЩ, 2023</sub-title>
-    <desc lang="bg">Мисията е застрашена; Ешан се изправя срещу Круз; Джо и екипът се подготвят за най-лошото.</desc>
-  </programme><programme channel="a0h5" start="20250411225000 +0200" stop="20250412002000 +0200">
-    <title lang="bg">Самодостатъчност</title>
-    <sub-title lang="bg">Комедия, САЩ, 2023</sub-title>
-    <desc lang="bg">Мъж ще получи 1 млн. долара за участие в мрачно риалити тв шоу, ако опази живота си за 30 дни.</desc>
-  </programme><programme channel="a0h5" start="20250412002000 +0200" stop="20250412010000 +0200">
-    <title lang="bg">Кралят на Тълса</title>
-    <sub-title lang="bg">Криминален, САЩ, 2022</sub-title>
-    <desc lang="bg">Напрежението между екипа на Дуайт и Уолтрип нараства. Какво е довело до 25 години затвор за Дуайт?</desc>
-  </programme><programme channel="a0h5" start="20250412010000 +0200" stop="20250412014500 +0200">
-    <title lang="bg">Кралят на Тълса</title>
-    <sub-title lang="bg">Криминален, САЩ, 2024</sub-title>
-    <desc lang="bg">Дуайт си навлича проблеми със закона в усилията си да разшири търговската си империя.</desc>
-  </programme><programme channel="a0h5" start="20250412014500 +0200" stop="20250412020500 +0200">
-    <title lang="bg">Рокфелер плаза 30</title>
-    <sub-title lang="bg">Ситком, САЩ, 2012</sub-title>
-    <desc lang="bg">Лиз е шокирана от ниското качество на шоуто, което Джак е планирал за есента.</desc>
-  </programme><programme channel="a0h5" start="20250412020500 +0200" stop="20250412022500 +0200">
-    <title lang="bg">Рокфелер плаза 30</title>
-    <sub-title lang="bg">Ситком, САЩ, 2012</sub-title>
-    <desc lang="bg">Джак и Лиз спорят за политическата сатира в шоуто; Лиз се опитва да подобри любовния си живот.</desc>
-  </programme><programme channel="a0h5" start="20250412022500 +0200" stop="20250412024500 +0200">
-    <title lang="bg">Рокфелер плаза 30</title>
-    <sub-title lang="bg">Ситком, САЩ, 2012</sub-title>
-    <desc lang="bg">Лиз се бори да защити Джена от лоша реклама и да докаже на Трейси, че жените са забавни.</desc>
-  </programme><programme channel="a0h5" start="20250412024500 +0200" stop="20250412030500 +0200">
-    <title lang="bg">Офисът</title>
-    <sub-title lang="bg">Комедия, САЩ, 2006</sub-title>
-    <desc lang="bg">Майкъл изисква вниманието на целия офис, след като изгаря крака си по невнимание.</desc>
-  </programme><programme channel="a0h5" start="20250412030500 +0200" stop="20250412033000 +0200">
-    <title lang="bg">Офисът</title>
-    <sub-title lang="bg">Комедия, САЩ, 2006</sub-title>
-    <desc lang="bg">В отчаяното си желание да спре Майкъл да разкрие тайната на Пам, Джим изтърпява пътуване до Хутърс.</desc>
-  </programme><programme channel="a0h5" start="20250412033000 +0200" stop="20250412044000 +0200">
-    <title lang="bg">The Curse</title>
-    <sub-title lang="bg">Комедия, САЩ, 2024</sub-title>
-    <desc lang="bg" />
-  </programme><programme channel="a0h5" start="20250412044000 +0200" stop="20250412053000 +0200">
-    <title lang="bg">Schmeichel</title>
-    <sub-title lang="bg">Документален, Великобритания, 2025</sub-title>
-    <desc lang="bg">Историята на Петер Шмайхел, един от най-добрите вратари в историята на Висшата лига.</desc>
-  </programme><programme channel="a0h5" start="20250412053000 +0200" stop="20250412060000 +0200">
-    <title lang="bg">MTV Cribs</title>
-    <sub-title lang="bg">Реалити, САЩ, 2009</sub-title>
-    <desc lang="bg">Поглед отвътре към домовете на Върн Тройър, Кристиян Одижие и Ал Харингтън.</desc>
-  </programme><programme channel="a0h5" start="20250412060000 +0200" stop="20250412071500 +0200">
-    <title lang="bg">Топ Кадети</title>
-    <sub-title lang="bg">Филм, Канада, 2017</sub-title>
-    <desc lang="bg">Тими костенурката изтърва кутията с обяд в реката. Кадетите се състезават за трофей.</desc>
-  </programme><programme channel="a0h5" start="20250412071500 +0200" stop="20250412084500 +0200">
-    <title lang="bg">Любопитният Джордж</title>
-    <sub-title lang="bg">Филм, Германия, 2006</sub-title>
-    <desc lang="bg">Буйна маймунка на име Джордж изучава големия град, заедно с новия си приятел Тед.</desc>
-  </programme><programme channel="a0h5" start="20250412084500 +0200" stop="20250412102000 +0200">
-    <title lang="bg">Despicable Me 4</title>
-    <sub-title lang="bg">Забавление, САЩ, 2024</sub-title>
-    <desc lang="bg">Гру и семейството му предприемат бягство от престъпен гений, търсещ отмъщение.</desc>
-  </programme><programme channel="a0h5" start="20250412102000 +0200" stop="20250412114000 +0200">
-    <title lang="bg">Патешки истории</title>
-    <sub-title lang="bg">Забавление, САЩ, 2023</sub-title>
-    <desc lang="bg">Семейство патици се отправя на пътешествие до Ямайка, но вместо това се озовава в Ню Йорк.</desc>
-  </programme><programme channel="a0h5" start="20250412114000 +0200" stop="20250412131500 +0200">
-    <title lang="bg">Животът на шерпите</title>
-    <sub-title lang="bg">Документален, Австралия, 2015</sub-title>
-    <desc lang="bg">След смъртоносна лавина Шерпите се обединяват от мъка и гняв, за да си върнат уважението на Еверест.</desc>
-  </programme><programme channel="a0h5" start="20250412131500 +0200" stop="20250412151500 +0200">
-    <title lang="bg">Последният тъмнокож в Сан Франциско</title>
-    <sub-title lang="bg">Драма, САЩ, 2019</sub-title>
-    <desc lang="bg">Млад мъж се опитва да си върне къщата, която дядо му е построил в самия център на Сан Франциско.</desc>
-  </programme><programme channel="a0h5" start="20250412151500 +0200" stop="20250412164500 +0200">
-    <title lang="bg">Аполо 11</title>
-    <sub-title lang="bg">Наука, САЩ, 2019</sub-title>
-    <desc lang="bg">Поглед отблизо към прочутата мисия на НАСА за кацане на Луната.</desc>
-  </programme><programme channel="a0h5" start="20250412164500 +0200" stop="20250412171500 +0200">
-    <title lang="bg">Накълс</title>
-    <sub-title lang="bg">Приключенски, САЩ, 2024</sub-title>
-    <desc lang="bg">Накълс се опитва да се адаптира към новия си живот в малкото градче Грийн Хилс.</desc>
-  </programme><programme channel="a0h5" start="20250412171500 +0200" stop="20250412174000 +0200">
-    <title lang="bg">Накълс</title>
-    <sub-title lang="bg">Приключенски, САЩ, 2024</sub-title>
-    <desc lang="bg">Уейд планира страхотна спасителна мисия, докато Накълс се изправя срещу похитителите си.</desc>
-  </programme><programme channel="a0h5" start="20250412174000 +0200" stop="20250412182500 +0200">
-    <title lang="bg">Дъглас е отхвърлен</title>
-    <sub-title lang="bg">Драма, Великобритания, 2024</sub-title>
-    <desc lang="bg">Един минал инцидент между Маделин Кроу и Дъглас Белоус може да повлияе на настоящето.</desc>
-  </programme><programme channel="a0h5" start="20250412182500 +0200" stop="20250412191000 +0200">
-    <title lang="bg">Дъглас е отхвърлен</title>
-    <sub-title lang="bg">Драма, Великобритания, 2024</sub-title>
-    <desc lang="bg">Дъглас се изправя срещу Маделин по време на пробно интервю, което се превръща в битка на волята и думите.</desc>
-  </programme><programme channel="a0h5" start="20250412191000 +0200" stop="20250412200500 +0200">
-    <title lang="bg">Стар Трек: Дискавъри</title>
-    <sub-title lang="bg">Екшън, САЩ, 2021</sub-title>
-    <desc lang="bg">Стаметс и научният екип се впускат да попречат на аномалията да убие още някого.</desc>
-  </programme><programme channel="a0h5" start="20250412200500 +0200" stop="20250412210000 +0200">
-    <title lang="bg">Стар Трек: Дискавъри</title>
-    <sub-title lang="bg">Екшън, САЩ, 2021</sub-title>
-    <desc lang="bg">Тили и Адира ръководят мисия за обучение на кадети за Звездния флот, но нещата се объркват по опасен начин.</desc>
-  </programme><programme channel="a0h5" start="20250412210000 +0200" stop="20250412224500 +0200">
-    <title lang="bg">Трансформърс: Първият</title>
-    <sub-title lang="bg">Забавление, САЩ, 2024</sub-title>
-    <desc lang="bg">Историята на Оптимус Прайм и Мегатрон ? братя по оръжие, превърнали се в заклети врагове.</desc>
-  </programme><programme channel="a0h5" start="20250412224500 +0200" stop="20250412233500 +0200">
-    <title lang="bg">Специални части: Лъвица</title>
-    <sub-title lang="bg">Екшън, САЩ, 2023</sub-title>
-    <desc lang="bg">Джо напътства Круз в неговата вътрешна борба; Аалия и Круз се сближават; Кейт се завръща у дома.</desc>
-  </programme><programme channel="a0h5" start="20250412233500 +0200" stop="20250413003500 +0200">
-    <title lang="bg">Специални части: Лъвица</title>
-    <sub-title lang="bg">Екшън, САЩ, 2023</sub-title>
-    <desc lang="bg">Мисията е застрашена; Ешан се изправя срещу Круз; Джо и екипът се подготвят за най-лошото.</desc>
-  </programme><programme channel="a0h5" start="20250413003500 +0200" stop="20250413013000 +0200">
-    <title lang="bg">Предложението</title>
-    <sub-title lang="bg">Драма, САЩ, 2022</sub-title>
-    <desc lang="bg">Руди се среща с Коломбо. Евънс изпада в затруднено положение с изпълнителния директор на "Гълф енд Уестърн".</desc>
-  </programme><programme channel="a0h5" start="20250413013000 +0200" stop="20250413023000 +0200">
+    <desc lang="bg">Представяне на домовете на Соулджа Бой, Лил Мама и Марк Инделикато.</desc>
+  </programme><programme channel="a0h6" start="20250414191000 +0200" stop="20250414210000 +0200">
+    <title lang="bg">Котките</title>
+    <sub-title lang="bg">Комедия, Канада, 2019</sub-title>
+    <desc lang="bg">Племето на котките Желик трябва да реши коя от тях ще се изкачи до Слоя Хевисайд.</desc>
+  </programme><programme channel="a0h5" start="20250413012200 +0200" stop="20250413022000 +0200">
     <title lang="bg">Предложението</title>
     <sub-title lang="bg">Драма, САЩ, 2022</sub-title>
     <desc lang="bg">Марлон Брандо и Ал Пачино водят преговори за главни роли. Руди печели подкрепата на Коломбо.</desc>
-  </programme><programme channel="a0h5" start="20250413023000 +0200" stop="20250413033000 +0200">
-    <title lang="bg">A Recipe for Murder</title>
-    <sub-title lang="bg">Право и престъпност, Испания, 2025</sub-title>
-    <desc lang="bg">Водещи психолози и криминалисти изследват потенциалните причини за престъплението.</desc>
-  </programme><programme channel="a0h5" start="20250413033000 +0200" stop="20250413043000 +0200">
-    <title lang="bg">A Recipe for Murder</title>
-    <sub-title lang="bg">Право и престъпност, Испания, 2025</sub-title>
-    <desc lang="bg">Екипът, който отговаря за защитата на Даниел, заменя звездния си правен екип, което води до противоречиви реакции.</desc>
-  </programme><programme channel="a0h5" start="20250413043000 +0200" stop="20250413052500 +0200">
-    <title lang="bg">Стар Трек: Дискавъри</title>
-    <sub-title lang="bg">Екшън, САЩ, 2021</sub-title>
-    <desc lang="bg">Стаметс и научният екип се впускат да попречат на аномалията да убие още някого.</desc>
-  </programme><programme channel="a0h5" start="20250413052500 +0200" stop="20250413054500 +0200">
-    <title lang="bg">Рокфелер плаза 30</title>
-    <sub-title lang="bg">Ситком, САЩ, 2012</sub-title>
-    <desc lang="bg">Лиз е шокирана от ниското качество на шоуто, което Джак е планирал за есента.</desc>
-  </programme><programme channel="a0h5" start="20250413054500 +0200" stop="20250413060000 +0200">
-    <title lang="bg">Рокфелер плаза 30</title>
-    <sub-title lang="bg">Ситком, САЩ, 2012</sub-title>
-    <desc lang="bg">Джак и Лиз спорят за политическата сатира в шоуто; Лиз се опитва да подобри любовния си живот.</desc>
-  </programme><programme channel="a0h5" start="20250413060000 +0200" stop="20250413062500 +0200">
-    <title lang="bg">Топ Кадети</title>
-    <sub-title lang="bg">Филм, Канада, 2018</sub-title>
-    <desc lang="bg">Братовчедите на Чип и Чирп потеглят с автомобилите на кадетите. Бади пада от самолета си.</desc>
-  </programme><programme channel="a0h5" start="20250413062500 +0200" stop="20250413065000 +0200">
-    <title lang="bg">Топ Кадети</title>
-    <sub-title lang="bg">Филм, Канада, 2018</sub-title>
-    <desc lang="bg">Бобърът Уорд случайно скъсва язовира, а Трини Козата се отклонява от пътя по време на състезанието с кози колички.</desc>
-  </programme><programme channel="a0h5" start="20250413065000 +0200" stop="20250413074000 +0200">
-    <title lang="bg">Inside Greenpeace</title>
-    <sub-title lang="bg">Документален, Германия, 2021</sub-title>
-    <desc lang="bg">Грийнпийс се бори с най-силния си противник от последните десетилетия - индустрията за изкопаеми горива.</desc>
-  </programme><programme channel="a0h5" start="20250413074000 +0200" stop="20250413083000 +0200">
-    <title lang="bg">Inside Greenpeace</title>
-    <sub-title lang="bg">Документален, Германия, 2021</sub-title>
-    <desc lang="bg">Грийнпийс се бори с обезлесяването на Амазонка в Бразилия и на горите във Швеция.</desc>
-  </programme><programme channel="a0h5" start="20250413083000 +0200" stop="20250413091000 +0200">
-    <title lang="bg">Дъглас е отхвърлен</title>
-    <sub-title lang="bg">Драма, Великобритания, 2024</sub-title>
-    <desc lang="bg">Един минал инцидент между Маделин Кроу и Дъглас Белоус може да повлияе на настоящето.</desc>
-  </programme><programme channel="a0h5" start="20250413091000 +0200" stop="20250413095000 +0200">
-    <title lang="bg">Дъглас е отхвърлен</title>
-    <sub-title lang="bg">Драма, Великобритания, 2024</sub-title>
-    <desc lang="bg">Дъглас се изправя срещу Маделин по време на пробно интервю, което се превръща в битка на волята и думите.</desc>
-  </programme><programme channel="a0h5" start="20250413095000 +0200" stop="20250413101500 +0200">
-    <title lang="bg">Накълс</title>
-    <sub-title lang="bg">Приключенски, САЩ, 2024</sub-title>
-    <desc lang="bg">Накълс се опитва да се адаптира към новия си живот в малкото градче Грийн Хилс.</desc>
-  </programme><programme channel="a0h5" start="20250413101500 +0200" stop="20250413103500 +0200">
-    <title lang="bg">Накълс</title>
-    <sub-title lang="bg">Приключенски, САЩ, 2024</sub-title>
-    <desc lang="bg">Уейд планира страхотна спасителна мисия, докато Накълс се изправя срещу похитителите си.</desc>
-  </programme><programme channel="a0h5" start="20250413103500 +0200" stop="20250413112500 +0200">
-    <title lang="bg">Schmeichel</title>
-    <sub-title lang="bg">Документален, Великобритания, 2025</sub-title>
-    <desc lang="bg">Историята на Петер Шмайхел, един от най-добрите вратари в историята на Висшата лига.</desc>
-  </programme><programme channel="a0h5" start="20250413112500 +0200" stop="20250413131500 +0200">
-    <title lang="bg">Боб Марли: One Love</title>
-    <sub-title lang="bg">Биографичен, САЩ, 2024</sub-title>
-    <desc lang="bg">Историята за това как реге иконата се бори с трудностите и прави революция в музиката.</desc>
-  </programme><programme channel="a0h5" start="20250413131500 +0200" stop="20250413155000 +0200">
-    <title lang="bg">Усещане за жена</title>
-    <sub-title lang="bg">Драма, САЩ, 1992</sub-title>
-    <desc lang="bg">Сляп бивш полковник води своя придружител-буржоа на пътешествие в търсене на удоволствия в Ню Йорк.</desc>
-  </programme><programme channel="a0h5" start="20250413155000 +0200" stop="20250413174000 +0200">
-    <title lang="bg">Problemista</title>
-    <sub-title lang="bg">Комедия, САЩ, 2023</sub-title>
-    <desc lang="bg">Вдъхновен дизайнер на играчки, който иска да получи виза, помага на изгнаник от света на изкуството.</desc>
-  </programme><programme channel="a0h5" start="20250413174000 +0200" stop="20250413183000 +0200">
-    <title lang="bg">Schmeichel</title>
-    <sub-title lang="bg">Документален, Великобритания, 2025</sub-title>
-    <desc lang="bg">Историята на Петер Шмайхел, един от най-добрите вратари в историята на Висшата лига.</desc>
-  </programme><programme channel="a0h5" start="20250413183000 +0200" stop="20250413190000 +0200">
+  </programme><programme channel="a0h5" start="20250413232500 +0200" stop="20250414001000 +0200">
+    <title lang="bg">Кралят на Тълса</title>
+    <sub-title lang="bg">Криминален, САЩ, 2024</sub-title>
+    <desc lang="bg">Дуайт си навлича проблеми със закона в усилията си да разшири търговската си империя.</desc>
+  </programme><programme channel="a0h5" start="20250414001000 +0200" stop="20250414011000 +0200">
+    <title lang="bg">The Agency</title>
+    <sub-title lang="bg">Драма, САЩ, 2024</sub-title>
+    <desc lang="bg">Тайният агент на ЦРУ Маршън е повикан обратно в бюрото в Лондон; Дани си взема поука.</desc>
+  </programme><programme channel="a0h5" start="20250414011000 +0200" stop="20250414021000 +0200">
+    <title lang="bg">The Agency</title>
+    <sub-title lang="bg">Драма, САЩ, 2024</sub-title>
+    <desc lang="bg">Д-р Блейк в подложен на тест; Възниква опасност подплашен източник да изложи операция на риск.</desc>
+  </programme><programme channel="a0h5" start="20250414021000 +0200" stop="20250414024000 +0200">
     <title lang="bg">Фрейзър</title>
     <sub-title lang="bg">Комедия, САЩ, 2024</sub-title>
     <desc lang="bg">Фрейзър научава, че Алън е посъветвал Фреди да прекъсне колежа, поставяйки приятелството им в опасност.</desc>
-  </programme><programme channel="a0h5" start="20250413190000 +0200" stop="20250413193000 +0200">
+  </programme><programme channel="a0h5" start="20250414024000 +0200" stop="20250414031000 +0200">
     <title lang="bg">Фрейзър</title>
     <sub-title lang="bg">Комедия, САЩ, 2024</sub-title>
     <desc lang="bg">В Деня на влюбените Фрейзър е въвлечен и в двете страни на проблемна връзка.</desc>
-  </programme><programme channel="a0h5" start="20250413193000 +0200" stop="20250413201500 +0200">
+  </programme><programme channel="a0h5" start="20250414031000 +0200" stop="20250414035500 +0200">
     <title lang="bg">Аз, вещицата</title>
     <sub-title lang="bg">Фантастика, Великобритания, 2021</sub-title>
     <desc lang="bg">Матю и Даяна търсят Едуард Кели, който според тях притежава Книгата на живота.</desc>
-  </programme><programme channel="a0h5" start="20250413201500 +0200" stop="20250413210000 +0200">
+  </programme><programme channel="a0h5" start="20250414035500 +0200" stop="20250414044000 +0200">
     <title lang="bg">Аз, вещицата</title>
     <sub-title lang="bg">Фантастика, Великобритания, 2021</sub-title>
     <desc lang="bg">Даяна се затруднява с интерпретацията на Книгата на живота и мисли, че Кели може да я е повредил.</desc>
+  </programme><programme channel="a0h5" start="20250414044000 +0200" stop="20250414054000 +0200">
+    <title lang="bg">Стар Трек: Дискавъри</title>
+    <sub-title lang="bg">Екшън, САЩ, 2021</sub-title>
+    <desc lang="bg">Тили и Адира ръководят мисия за обучение на кадети за Звездния флот, но нещата се объркват по опасен начин.</desc>
+  </programme><programme channel="a0h5" start="20250414054000 +0200" stop="20250414060000 +0200">
+    <title lang="bg">Накълс</title>
+    <sub-title lang="bg">Приключенски, САЩ, 2024</sub-title>
+    <desc lang="bg">Накълс се опитва да се адаптира към новия си живот в малкото градче Грийн Хилс.</desc>
+  </programme><programme channel="a0h5" start="20250414060000 +0200" stop="20250414062000 +0200">
+    <title lang="bg">Ай, ай, Сантяго</title>
+    <sub-title lang="bg">Филм, САЩ, 2021</sub-title>
+    <desc lang="bg">Котката на Бони кара екипажа да мисли, че той е добър пират; екипажът работи с легенда.</desc>
+  </programme><programme channel="a0h5" start="20250414062000 +0200" stop="20250414064000 +0200">
+    <title lang="bg">Ай, ай, Сантяго</title>
+    <sub-title lang="bg">Филм, САЩ, 2022</sub-title>
+    <desc lang="bg">Сантяго и екипът му трябва да попречат на Бони Боунс да провали празника на Тримата крале.</desc>
+  </programme><programme channel="a0h5" start="20250414064000 +0200" stop="20250414070500 +0200">
+    <title lang="bg">Кунг фу панда - Легенди за страхотният боец</title>
+    <sub-title lang="bg">Филм, САЩ, 2013</sub-title>
+    <desc lang="bg">Крейн моли По и бандата да му помогнат да запази кунг-фу в тайна от майка си.</desc>
+  </programme><programme channel="a0h5" start="20250414070500 +0200" stop="20250414073000 +0200">
+    <title lang="bg">Кунг фу панда - Легенди за страхотният боец</title>
+    <sub-title lang="bg">Филм, САЩ, 2013</sub-title>
+    <desc lang="bg">Чувствайки се неуверена поради размерите си, Богомолката изпива отвара за растеж, която я прави огромна.</desc>
+  </programme><programme channel="a0h5" start="20250414073000 +0200" stop="20250414075500 +0200">
+    <title lang="bg">Топ Кадети</title>
+    <sub-title lang="bg">Филм, Канада, 2018</sub-title>
+    <desc lang="bg">Бандити маймуни отнемат бананите на Ронда. Шърли случайно зарежда със суперкондензатор малкия си самолет.</desc>
+  </programme><programme channel="a0h5" start="20250414075500 +0200" stop="20250414085500 +0200">
+    <title lang="bg">Милиарди</title>
+    <sub-title lang="bg">Драма, САЩ, 2017</sub-title>
+    <desc lang="bg">Акс обмисля да купи отбор от Националната футболна лига. Чък подготвя дребен информатор.</desc>
+  </programme><programme channel="a0h5" start="20250414085500 +0200" stop="20250414095500 +0200">
+    <title lang="bg">Милиарди</title>
+    <sub-title lang="bg">Драма, САЩ, 2016</sub-title>
+    <desc lang="bg">Чък разработва нова стратегия. Акс обмисля дарение за благотворителност.</desc>
+  </programme><programme channel="a0h5" start="20250414095500 +0200" stop="20250414112500 +0200">
+    <title lang="bg">Аполо 11</title>
+    <sub-title lang="bg">Наука, САЩ, 2019</sub-title>
+    <desc lang="bg">Поглед отблизо към прочутата мисия на НАСА за кацане на Луната.</desc>
+  </programme><programme channel="a0h5" start="20250414112500 +0200" stop="20250414131500 +0200">
+    <title lang="bg">Problemista</title>
+    <sub-title lang="bg">Комедия, САЩ, 2023</sub-title>
+    <desc lang="bg">Вдъхновен дизайнер на играчки, който иска да получи виза, помага на изгнаник от света на изкуството.</desc>
+  </programme><programme channel="a0h5" start="20250414131500 +0200" stop="20250414141500 +0200">
+    <title lang="bg">Милиарди</title>
+    <sub-title lang="bg">Драма, САЩ, 2016</sub-title>
+    <desc lang="bg">Чък трябва да разчита на нервен информатор. Акс обмисля идеи за бърза игра.</desc>
+  </programme><programme channel="a0h5" start="20250414141500 +0200" stop="20250414151500 +0200">
+    <title lang="bg">Милиарди</title>
+    <sub-title lang="bg">Драма, САЩ, 2017</sub-title>
+    <desc lang="bg">Акс преговаря с плах продавач; Сделката на Чък с подсъдим се проваля.</desc>
+  </programme><programme channel="a0h5" start="20250414151500 +0200" stop="20250414160500 +0200">
+    <title lang="bg">Schmeichel</title>
+    <sub-title lang="bg">Документален, Великобритания, 2025</sub-title>
+    <desc lang="bg">Историята на Петер Шмайхел, един от най-добрите вратари в историята на Висшата лига.</desc>
+  </programme><programme channel="a0h5" start="20250414160500 +0200" stop="20250414180500 +0200">
+    <title lang="bg">Последният тъмнокож в Сан Франциско</title>
+    <sub-title lang="bg">Драма, САЩ, 2019</sub-title>
+    <desc lang="bg">Млад мъж се опитва да си върне къщата, която дядо му е построил в самия център на Сан Франциско.</desc>
+  </programme><programme channel="a0h5" start="20250414180500 +0200" stop="20250414182500 +0200">
+    <title lang="bg">Рокфелер плаза 30</title>
+    <sub-title lang="bg">Ситком, САЩ, 2012</sub-title>
+    <desc lang="bg">Лиз и Джак се състезават да повлияят на президентските избори; писателите дразнят Джена.</desc>
+  </programme><programme channel="a0h5" start="20250414182500 +0200" stop="20250414184500 +0200">
+    <title lang="bg">Рокфелер плаза 30</title>
+    <sub-title lang="bg">Ситком, САЩ, 2012</sub-title>
+    <desc lang="bg">Осъзнавайки политическото влияние на Джена, Лиз и Джак организират дебат, за да спечелят нейните последователи.</desc>
+  </programme><programme channel="a0h5" start="20250414184500 +0200" stop="20250414190500 +0200">
+    <title lang="bg">Рокфелер плаза 30</title>
+    <sub-title lang="bg">Ситком, САЩ, 2012</sub-title>
+    <desc lang="bg">След като Трейси представя Джак като злодей във филм, двамата влизат в словесна битка.</desc>
+  </programme><programme channel="a0h5" start="20250414190500 +0200" stop="20250414193000 +0200">
+    <title lang="bg">Офисът</title>
+    <sub-title lang="bg">Комедия, САЩ, 2006</sub-title>
+    <desc lang="bg">Майкъл поставя под въпрос популярността си, когато открива неприятна изненада на пода в офиса си.</desc>
+  </programme><programme channel="a0h5" start="20250414193000 +0200" stop="20250414195500 +0200">
+    <title lang="bg">Офисът</title>
+    <sub-title lang="bg">Комедия, САЩ, 2006</sub-title>
+    <desc lang="bg">Семинарът на Ян "Жените на работното място" кара Майкъл да стане домакин на паралелна среща с момчетата.</desc>
+  </programme><programme channel="a0h5" start="20250414195500 +0200" stop="20250414202000 +0200">
+    <title lang="bg">Офисът</title>
+    <sub-title lang="bg">Комедия, САЩ, 2006</sub-title>
+    <desc lang="bg">Пам се надява за подарък за Свети Валентин от Рой; Ян и Майкъл се отправят към Ню Йорк.</desc>
+  </programme><programme channel="a0h5" start="20250414202000 +0200" stop="20250414210000 +0200">
+    <title lang="bg">Невидимите дами</title>
+    <sub-title lang="bg">Комедия, Испания, 2023</sub-title>
+    <desc lang="bg">Когато домашна прислужница умира в младоженски апартамент, управителите се опитват да поддържат хотела работещ.</desc>
   </programme>
 </tv>
