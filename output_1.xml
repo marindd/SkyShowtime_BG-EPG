@@ -4,10 +4,14 @@
     <display-name>SkyShowtime 1</display-name>
   </channel><channel id="a0h6">
     <display-name>SkyShowtime 2</display-name>
-  </channel><programme channel="a0h6" start="20250413010100 +0200" stop="20250413030000 +0200">
-    <title lang="bg">Пътуване по женски</title>
-    <sub-title lang="bg">Комедия, САЩ, 2017</sub-title>
-    <desc lang="bg">Четири приятелки отиват на почивка в Ню Орлиънс, където се радват на възможността да полудуват.</desc>
+  </channel><programme channel="a0h6" start="20250414003400 +0200" stop="20250414023100 +0200">
+    <title lang="bg">Снекбар</title>
+    <sub-title lang="bg">Комедия, САЩ, 2024</sub-title>
+    <desc lang="bg">Снекбар империя е изложена на риск, когато двама най-добри приятели се влюбват във водна спасителка.</desc>
+  </programme><programme channel="a0h6" start="20250414023100 +0200" stop="20250414042400 +0200">
+    <title lang="bg">Какво става после</title>
+    <sub-title lang="bg">Романтична комедия, САЩ, 2023</sub-title>
+    <desc lang="bg">Двама бивши любовници се срещат случайно, оставайки затрупани от сняг на летището за една нощ.</desc>
   </programme><programme channel="a0h6" start="20250414082000 +0200" stop="20250414084500 +0200">
     <title lang="bg">Тандърмен срещу Тандърмен</title>
     <sub-title lang="bg">Филм, САЩ, 2015</sub-title>
@@ -56,19 +60,7 @@
     <title lang="bg">Котките</title>
     <sub-title lang="bg">Комедия, Канада, 2019</sub-title>
     <desc lang="bg">Племето на котките Желик трябва да реши коя от тях ще се изкачи до Слоя Хевисайд.</desc>
-  </programme><programme channel="a0h5" start="20250413012200 +0200" stop="20250413022000 +0200">
-    <title lang="bg">Предложението</title>
-    <sub-title lang="bg">Драма, САЩ, 2022</sub-title>
-    <desc lang="bg">Марлон Брандо и Ал Пачино водят преговори за главни роли. Руди печели подкрепата на Коломбо.</desc>
-  </programme><programme channel="a0h5" start="20250413232500 +0200" stop="20250414001000 +0200">
-    <title lang="bg">Кралят на Тълса</title>
-    <sub-title lang="bg">Криминален, САЩ, 2024</sub-title>
-    <desc lang="bg">Дуайт си навлича проблеми със закона в усилията си да разшири търговската си империя.</desc>
-  </programme><programme channel="a0h5" start="20250414001000 +0200" stop="20250414011000 +0200">
-    <title lang="bg">The Agency</title>
-    <sub-title lang="bg">Драма, САЩ, 2024</sub-title>
-    <desc lang="bg">Тайният агент на ЦРУ Маршън е повикан обратно в бюрото в Лондон; Дани си взема поука.</desc>
-  </programme><programme channel="a0h5" start="20250414011000 +0200" stop="20250414021000 +0200">
+  </programme><programme channel="a0h5" start="20250414011100 +0200" stop="20250414021100 +0200">
     <title lang="bg">The Agency</title>
     <sub-title lang="bg">Драма, САЩ, 2024</sub-title>
     <desc lang="bg">Д-р Блейк в подложен на тест; Възниква опасност подплашен източник да изложи операция на риск.</desc>
